@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @connertalsmaj
-- 👀 I’m interested in games
-- 🌱 I’m currently learning script
-- 💞️ I’m looking to collaborate on makeing games
-- 📫 How to reach me gmail
+- 👀 I’m interested in video games
+- 🌱 I’m currently learning different scripting languages such as Lua
+- 💞️ I’m looking to collaborate on making games, especially in Roblox
 
 <!---
 connertalsmaj/connertalsmaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
